@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+hr {
+    height: 4px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px;
+    background-color: blueviolet;
+}
